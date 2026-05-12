@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Sokawaii25.github.io/notes-1k7sbq/sitemap.xml
